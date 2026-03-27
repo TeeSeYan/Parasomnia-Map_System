@@ -82,13 +82,29 @@ Switched to on-demand updates triggered when opening the map
 
 ## Media
 - WASD-based map movement
+Singleplayer:
 ![Alt text](image/MapSystem_Features_01.gif)
+
+--- 
 
 - Zoom In/Out Function
 ![Alt text](image/MapSystem_Features_02.gif)
 
+---
+
 - Floor switching (Next / Previous system)
+
+- Singleplayer:
 ![Alt text](image/MapSystem_Features_03.gif)
+
+- Multiplayer:
+![Alt text](image/MapSystem_Features_04.gif)
+
+---
+
+- Update Map System
+Multiplayer: 
+![Alt text](image/MapSystem_Features_05.gif)
 
 
 
