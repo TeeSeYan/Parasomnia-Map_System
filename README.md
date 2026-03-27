@@ -40,7 +40,7 @@ The system was rebuilt from scratch due to incomplete documentation and unstable
 - Resolved resolution mismatches using external tools (Photoshop)
 
 ### Prototype Feature
-- Basic objective tracking system (limited due to production constraints)
+- Basic point-of-interest display (implemented as a simplified system near the end of internship)
 
 ---
 
